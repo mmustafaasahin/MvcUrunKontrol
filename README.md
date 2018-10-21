@@ -22,6 +22,5 @@ Rol Ekle
 Cookie Atama (Cookie sınıfıyla cookie tanıtıp okuma işlemi gerçekleştirdik.
 Cookie Okuma
 
-
-        MvcUrunKontrol/Ekran Görüntüleri/1.png
+Ekran Görüntüleri Projede Mevcuttur.
       
